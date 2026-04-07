@@ -6,11 +6,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/404', function () {
+Route::get('/404', function () {  // falta ajustar as cores
     return view('404');
 });
 
-Route::get('/blank', function () {
+Route::get('/blank', function () { // falta ajustar as cores
     return view('blank');
 });
 
@@ -22,7 +22,7 @@ Route::get('/chart', function () {
     return view('chart');
 });
 
-Route::get('/element', function () {
+Route::get('/element', function () { // pronta
     return view('element');
 });
 
@@ -30,15 +30,15 @@ Route::get('/form', function () {
     return view('form');
 });
 
-Route::get('/index', function () {
+Route::get('/index', function () { //pronta
     return view('index');
 });
 
-Route::get('/singin', function () {
-    return view('singin');
+Route::get('/signin', function () { //pronta
+    return view('signin');
 });
 
-Route::get('/signup', function () {
+Route::get('/signup', function () { //pronta
     return view('signup');
 });
 

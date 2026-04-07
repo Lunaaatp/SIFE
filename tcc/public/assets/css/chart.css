@@ -1,0 +1,8 @@
+body { background-color: #f0f2f5 !important; color: #333 !important; }
+    .bg-light-danger { background-color: #ffe5e5; }
+    .bg-light-primary { background-color: #e5f0ff; }
+    .bg-light-warning { background-color: #fff9e5; }
+    .bg-light-success { background-color: #e5f7ed; }
+    .sidebar { background: white !important; border-right: 1px solid #ddd; }
+    .content { background: #f0f2f5 !important; }
+    .text-primary { color: #007bff !important; }

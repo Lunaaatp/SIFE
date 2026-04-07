@@ -1,0 +1,39 @@
+.fundo{
+    background-color: rgb(171, 168, 168) !important;
+}
+
+.botao{
+    background-color: red !important;
+    color: white !important;
+}
+
+.quadrado{
+    background-color: white !important;
+}
+
+.email{
+    background-color: white !important;
+}
+
+.imagem {
+    width: 100px;
+    height: 50px;
+}
+
+
+.img1 {
+    width: 70px;
+    height: auto;
+}
+
+.lembrete{
+    background-color: white;
+}
+
+.text-dark {
+    color: black !important;
+}
+
+h1.display-1 {
+    color: black !important;
+}
